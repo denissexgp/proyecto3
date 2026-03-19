@@ -1,4 +1,5 @@
 #!/bin/bash
+#programa para el examen de primer parcial 
 # programa para calcular la distancia y saque el promedio de distancias 
 # Los parametros son nombre de archivo, columna de inicio, columna de fin. 
 
